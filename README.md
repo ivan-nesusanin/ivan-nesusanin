@@ -29,3 +29,9 @@ My goal is to change profession and become a software developer. I have a great 
 ![Webpack](https://img.shields.io/badge/-Webpack-7777FF?style=for-the-badge&logo=Webpack)
 ![RXJS](https://img.shields.io/badge/-rxjs-aa00aa?style=for-the-badge&logo=RxJS)
 ![Docker](https://img.shields.io/badge/-Docker-2222ff?style=for-the-badge&logo=Docker)
+
+## My Statistics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-nesusanin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-nesusanin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
