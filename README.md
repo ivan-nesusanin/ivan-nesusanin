@@ -32,6 +32,4 @@ My goal is to change profession and become a software developer. I have a great 
 
 ## My Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-nesusanin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-nesusanin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-nesusanin&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
